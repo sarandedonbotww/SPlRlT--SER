@@ -1,3 +1,4 @@
+
 FROM fusuf/whatsasena:latest
 
 RUN git clone https://github.com/sarandedonbotww/SPlRlT--SER /root/WhatsAsenaDuplicated
