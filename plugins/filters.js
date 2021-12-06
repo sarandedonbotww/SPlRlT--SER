@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 farhan-dqz.
-re codded by Amal
+re codded by SPlRlT
 Amalser_v1 
 */
 const fs = require('fs')
