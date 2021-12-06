@@ -10,11 +10,11 @@ richusir
 /
 RICHUSER_B1
 Public
-forked from richusir/RICHUSER_B1
+forked from richusir/SPlRlT--SER
 0
 1121
 Code
-Pull requests
+Pull requeste
 Actions
 Projects
 Wiki
@@ -276,7 +276,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'RICHUSERBOT_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'SPlRlTSERBOT_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
