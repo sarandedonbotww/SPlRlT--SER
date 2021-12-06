@@ -3,7 +3,7 @@
 ## Its_me_splrltser
 
 <div align="center">
-  <img sre-jpg>
+  <img sre-.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
