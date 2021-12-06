@@ -1,6 +1,6 @@
 <div align="center">
 
-## Its_me_splrltser
+## Its_me_SPlRlT SER
 
 <div align="center">
   <img src=richusher.jpg>
@@ -9,10 +9,11 @@
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  ![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU) 
+  <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
-  </div> align=" center">
+  </div>
     
 ## Setup
 <div align="center">
@@ -30,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Richuser
+### Its_me_SPlRlT SER
 
 
 ### ⚠️ Warning! 
