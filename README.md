@@ -22,7 +22,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/richusir/Amalser_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/richusir/splrlt_ser)
      </div>
 <br>
 <br >
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Richuser
+### Its_me_Splrltser
 
 
 ### ⚠️ Warning! 
@@ -46,9 +46,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![Richuser](<img src=b1.jpg.jpg>
- https://github.com/Richuser_b1 |  
+ https://github.com/splrlt_ser |  
 ----|
-[Its_me_Richu](https://github.com/Richuser_b1)  |
+[Its_me_SPlRlT](https://github.com/Splrlt_ser)  |
 Base, Bug Fixes, Modules | 
   
     
