@@ -9,7 +9,7 @@
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  ![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)]https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU)
+  ![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU)
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
   </div>
